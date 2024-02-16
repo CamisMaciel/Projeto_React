@@ -1,0 +1,29 @@
+body{
+    background-color: #f5eae3;
+}
+
+h1{
+    color: #454411;
+}
+
+p{
+    padding: 10px;
+}
+
+:root{
+    --background-color: #f5eae3;
+    --primary-color: #454411;
+    --text-color: #403029;
+    --background-section: #f5eae3;
+    --text-sobre: #454411;
+    --text-rodape: #f5eae3; 
+    --font-size-large: 24px;
+    --font-size-medium: 18px;
+    --font-size-small: 14px;
+}
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'roboto', sans-serif;
+  }
